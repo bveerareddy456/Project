@@ -1,6 +1,11 @@
 hi how are?
 where are you now?
+<<<<<<< HEAD
 what are you doing
 I'm fine.
 I'm at Bengaliore
 Doing job
+=======
+what are you doing?
+How much your salary?
+>>>>>>> How much salary
